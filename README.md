@@ -34,3 +34,7 @@ Bıçak(Knife):
 İlk Tabanca Modeli(First Pistol Model):
 
 ![Ekran görüntüsü 2024-08-14 103807](https://github.com/user-attachments/assets/beb1678b-ffad-44ae-8cf7-91e1f68a7221)
+
+Küçük Kılıç(Small Sword):
+
+![Küçük Kılıç(Small Sword)](https://github.com/user-attachments/assets/ea5707c7-8378-4a11-942c-e17c185471b8)
