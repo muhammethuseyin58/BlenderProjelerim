@@ -12,6 +12,7 @@ Bardak(Cup):
 ![Ekran görüntüsü 2024-08-14 103045](https://github.com/user-attachments/assets/5d6d088e-b8d8-4abb-a878-a2a1cd0559cc)
 
 Bıçak(Knife):
+
 ![Ekran görüntüsü 2024-08-14 103610](https://github.com/user-attachments/assets/dc6cab22-91b8-4219-94f9-fe5395a9a160)
 
 İlk Silah Modeli (First Weapon Model):
@@ -21,6 +22,7 @@ Bıçak(Knife):
 ![Ekran görüntüsü 2024-08-14 103735](https://github.com/user-attachments/assets/023ebda7-c651-45ab-b5b1-32b71b09fde1)
 
 İlk Ağaç Modeli(First Tree Model):
+
 ![Ekran görüntüsü 2024-08-14 103658](https://github.com/user-attachments/assets/4c9fdc4d-c4d3-48d7-be7c-7f7c74b014d2)
 
 İlk Tabanca Modeli(First Pistol Model):
