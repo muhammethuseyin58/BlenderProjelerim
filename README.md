@@ -9,6 +9,7 @@ Glock Tabanca(Glock Pistol):
 ![Ekran görüntüsü 2024-08-14 103632](https://github.com/user-attachments/assets/762bd6c5-3107-42d2-bc54-0b1e2265fc82)
 
 Bardak(Cup):
+
 ![Ekran görüntüsü 2024-08-14 103045](https://github.com/user-attachments/assets/5d6d088e-b8d8-4abb-a878-a2a1cd0559cc)
 
 Bıçak(Knife):
