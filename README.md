@@ -47,3 +47,6 @@ AD 500 Silah + Dürbün(AD 500 Rifle + Scope):
 
 ![AD 500 + Dürbün](https://github.com/user-attachments/assets/8ba2dd1c-57de-424c-af57-42bce69a5e0f)
 
+Mutfak Bıçağı(Kitchen Knife)
+
+![Mutfak bıçağı(Kitchen Knife)](https://github.com/user-attachments/assets/c219b7e1-37c5-42de-96d9-56c0b0c2c278)
