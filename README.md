@@ -1,3 +1,15 @@
+AD 500 Silah + Dürbün(AD 500 Rifle + Scope):
+
+![AD 500 + Dürbün](https://github.com/user-attachments/assets/8ba2dd1c-57de-424c-af57-42bce69a5e0f)
+
+Mutfak Bıçağı(Kitchen Knife)
+
+![Mutfak bıçağı(Kitchen Knife)](https://github.com/user-attachments/assets/c219b7e1-37c5-42de-96d9-56c0b0c2c278)
+
+AD 500 Silah(AD 500 Rifle):
+
+![AD 500](https://github.com/user-attachments/assets/24b73ef4-75a5-4efa-9bec-1c386b822e65)
+
 Silah Dürbünü(Gun Scope):
 
 ![Ekran görüntüsü 2024-08-14 104016](https://github.com/user-attachments/assets/c19986bd-738b-4b6e-8c42-b26e8d8f483f)
@@ -39,14 +51,7 @@ Küçük Kılıç(Small Sword):
 
 ![Küçük Kılıç(Small Sword)](https://github.com/user-attachments/assets/ea5707c7-8378-4a11-942c-e17c185471b8)
 
-AD 500 Silah(AD 500 Rifle):
 
-![AD 500](https://github.com/user-attachments/assets/24b73ef4-75a5-4efa-9bec-1c386b822e65)
 
-AD 500 Silah + Dürbün(AD 500 Rifle + Scope):
 
-![AD 500 + Dürbün](https://github.com/user-attachments/assets/8ba2dd1c-57de-424c-af57-42bce69a5e0f)
 
-Mutfak Bıçağı(Kitchen Knife)
-
-![Mutfak bıçağı(Kitchen Knife)](https://github.com/user-attachments/assets/c219b7e1-37c5-42de-96d9-56c0b0c2c278)
