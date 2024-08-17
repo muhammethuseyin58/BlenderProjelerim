@@ -1,11 +1,18 @@
+fantastik kılıç(fantastic sword):
+
+![Ekran görüntüsü 2024-08-17 190234](https://github.com/user-attachments/assets/07f07c0b-9652-4d66-b441-7d31fa3c742c)
+![Ekran görüntüsü 2024-08-17 190355](https://github.com/user-attachments/assets/2a16baf3-e60f-4cb5-9743-0c39841d3ad0)
+
 Küçük Kılıç(Small Sword):
 
+![Ekran görüntüsü 2024-08-17 102247](https://github.com/user-attachments/assets/f632bd16-1628-48e1-a480-e9ead0515da9)
 ![Küçük Kılıç(Small Sword) renkli](https://github.com/user-attachments/assets/32b78734-cd74-434d-be91-26f8767086a6)
 ![Küçük Kılıç(Small Sword) renkli (2)](https://github.com/user-attachments/assets/5c9bdd50-d0ed-465e-841d-c3bfd7303d52)
 
 Yeniçeri kılıcı Yatağan(Ottoman soldier sword):
 
-![Yeniçeri kılıcı Yatağan](https://github.com/user-attachments/assets/a041af15-55f7-4eb6-9eb4-c0ad379593a3)
+![Ekran görüntüsü 2024-08-17 102646](https://github.com/user-attachments/assets/b02699b6-ed03-427e-87b0-b12538ddad44)
+![Ekran görüntüsü 2024-08-17 102711](https://github.com/user-attachments/assets/d5d17b2c-b602-4196-8798-9344009cbc25)
 
 
 AD 500 Silah + Dürbün(AD 500 Rifle + Scope):
