@@ -1,3 +1,8 @@
+Sniper Tüfeği(Sniper Rifle):
+![Ekran görüntüsü 2024-08-19 084436](https://github.com/user-attachments/assets/ab90e304-7934-407a-99fa-e593a42e5145)
+![Ekran görüntüsü 2024-08-19 084427](https://github.com/user-attachments/assets/3579d82a-f555-4b36-9f8e-efcb9137fac7)
+
+
 fantastik kılıç(fantastic sword):
 
 ![Ekran görüntüsü 2024-08-17 190234](https://github.com/user-attachments/assets/07f07c0b-9652-4d66-b441-7d31fa3c742c)
