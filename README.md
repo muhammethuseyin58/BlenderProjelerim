@@ -1,3 +1,8 @@
+Mızrak(spear):
+![Ekran görüntüsü 2024-08-20 152807](https://github.com/user-attachments/assets/d3bf044c-f07e-4096-a2f7-07b62dfbf898)
+![Ekran görüntüsü 2024-08-20 152841](https://github.com/user-attachments/assets/5afe6d10-fad8-4753-82cb-465a8476e390)
+
+
 Sniper Tüfeği(Sniper Rifle):
 ![Ekran görüntüsü 2024-08-19 084436](https://github.com/user-attachments/assets/ab90e304-7934-407a-99fa-e593a42e5145)
 ![Ekran görüntüsü 2024-08-19 084427](https://github.com/user-attachments/assets/3579d82a-f555-4b36-9f8e-efcb9137fac7)
