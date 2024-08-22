@@ -1,3 +1,8 @@
+Uzun balta(Long Axe):
+![Ekran görüntüsü 2024-08-22 091938](https://github.com/user-attachments/assets/1722d3dd-4768-4cfc-8cb2-d7f753f57cd4)
+![Ekran görüntüsü 2024-08-22 091824](https://github.com/user-attachments/assets/d9752249-e505-4a13-84ee-80aaa3ee5abf)
+
+
 Mızrak(spear):
 ![Ekran görüntüsü 2024-08-20 152807](https://github.com/user-attachments/assets/d3bf044c-f07e-4096-a2f7-07b62dfbf898)
 ![Ekran görüntüsü 2024-08-20 152841](https://github.com/user-attachments/assets/5afe6d10-fad8-4753-82cb-465a8476e390)
